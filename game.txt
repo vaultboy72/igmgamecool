@@ -17,6 +17,7 @@ Resources
  *susser
     name:Amogus
     desc:Something sus...
+
 Upgrades
   *bigPieRecipe
     name:Big Chungus Amogy pie recipe
@@ -30,3 +31,7 @@ Buildings
     name:Innersloth (the company that made Among Us)
     desc:Invents "sus" for infinity.
     cost:20 Amogus
+*collectAmogus
+  name:Be Sus (gives you susser)
+  desc:Do SUS things for 1 AMOGUS
+  on click:yield 1 Amogus
