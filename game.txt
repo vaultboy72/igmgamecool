@@ -1,0 +1,14 @@
+Let's make a game!
+name:CrazyEpicX Game
+author:TPEMovies Remade
+desc: A CrAzY GaMe!
+created:31/05/2025
+updated:31/05/2025
+version:1.0
+CSS
+  #game
+  {
+    background:cornflowerblue;
+    font-family:"Times New Roman",Times,serif;
+    color:black;
+  }
