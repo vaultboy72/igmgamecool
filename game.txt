@@ -34,4 +34,4 @@ Buildings
 *collectAmogus
   name:Be Sus (gives you susser)
   desc:Do SUS things for 1 AMOGUS
-  on click:yield 1 Amogus
+  on click:yield 1 *susser
