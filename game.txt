@@ -1,11 +1,11 @@
 Let's make a game!
 name:CrazyEpicX Game
 author:TPEMovies Remade
-desc: A CrAzY GaMe!
+desc: A CrAzY GaMe HoStEd On g=GiThUb!
 created:31/05/2025
 updated:31/05/2025
 version:1.0
-text:Hosted On GitHub!
+
 CSS
   #game
   {
