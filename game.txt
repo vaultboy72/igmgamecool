@@ -5,6 +5,7 @@ desc: A CrAzY GaMe!
 created:31/05/2025
 updated:31/05/2025
 version:1.0
+text:Hosted On GitHub!
 CSS
   #game
   {
@@ -12,3 +13,21 @@ CSS
     font-family:"Times New Roman",Times,serif;
     color:black;
   }
+Resources
+ *susser
+    name:Amogus
+    desc:Something sus...
+Upgrades
+  *bigPieRecipe
+    name:Big Chungus Amogy pie recipe
+    desc:The big pi! (3.141592353589)
+    
+  *noviruspie
+    name:Antivirus Pie
+    desc:Boy, you'd never think there would be viruses, eh?
+Buildings
+  *InnerslothBuilding
+    name:Innersloth (the company that made Among Us)
+    desc:Invents "sus" for infinity.
+    cost:20 coins
+    on tick:give 1 milk
