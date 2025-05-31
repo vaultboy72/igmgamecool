@@ -29,5 +29,5 @@ Buildings
   *InnerslothBuilding
     name:Innersloth (the company that made Among Us)
     desc:Invents "sus" for infinity.
-    cost:20 coins
-    on tick:give 1 milk
+    cost:20 Amogus
+    on tick:give 1 susser
